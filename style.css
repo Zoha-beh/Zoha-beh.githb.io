@@ -197,5 +197,8 @@ html {
 	header ul {
 		display: none;,
 	}
+	.col-3 {
+		width: 100%;
+	}
 }
 
