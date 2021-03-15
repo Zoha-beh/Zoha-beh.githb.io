@@ -171,6 +171,7 @@ section h3::after {
 	width:33.33%;
 	box-sizing: border-box;
 	float: left;
+	text-align: center;
 }
 @media (max-width: 768px){
 	.mobile-menu{
