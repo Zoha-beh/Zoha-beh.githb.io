@@ -167,6 +167,11 @@ section h3::after {
 .python {
 	width: 60%;
 }
+.col-3 {
+	width:30.33%;
+	box-sizing: border-box;
+	float: left;
+} 
 @media (max-width: 768px){
 	.mobile-menu{
 		display: block;
