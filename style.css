@@ -168,11 +168,11 @@ section h3::after {
 	width: 60%;
 }
 .col-3 {
-	width:33.33%;
+	width:40.33%;
 	box-sizing: border-box;
 	float: left;
 	text-align: center;
-	padding:70px 40px;
+	padding:50px 10px;
 }
 .col-3 h4 {
 	padding-bottom: 10px;
