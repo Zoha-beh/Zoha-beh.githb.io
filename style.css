@@ -169,6 +169,7 @@ section h3::after {
 }
 .col-3 {
 	width:33.33%;
+	border: 1px solid;
 	box-sizing: border-box;
 	float: left;
 	text-align: center;
